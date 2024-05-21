@@ -1,0 +1,25 @@
+ /*
+Theme Name: 
+Author: Jason DeBay
+Author URI: https://kattypem.com
+Theme URI: https://kattypem.com
+Description: Linked list
+Version: 0.0.0
+*/
+ 
+ /* test styles css */
+*{
+	margin: 0;
+	padding: 0;
+}
+:root{
+	--test1: red;
+	--test2: blue;
+}
+body{
+	text-align: center;
+	/* background: var(--test2); */
+}
+
+
+
